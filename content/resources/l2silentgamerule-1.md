@@ -7,8 +7,13 @@ description: In playing out the Silent Game, the intention is to provide a stage
   of communication between builders and readers of an artifact. The Silent Game provides
   an opportunity to model some of these phenomena, play them out, and witness their
   interactions, thereby enlightening the mechanics of creation and recognition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-580-inquiry-into-computation-and-design-fall-2006/67a3140f7e501627946c9c0646f8282e_l2silentgamerule.pdf
+file: /media/courses/4-580-inquiry-into-computation-and-design-fall-2006/67a3140f7e501627946c9c0646f8282e_l2silentgamerule.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l2silentgamerule.pdf
 uid: 67a3140f-7e50-1627-946c-9c0646f8282e
