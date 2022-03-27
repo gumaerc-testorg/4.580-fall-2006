@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Other
 title: l7B_reasoningvis.pdf
 uid: c8a00739-fdd4-c7f3-a9ec-f188b03b5c2f

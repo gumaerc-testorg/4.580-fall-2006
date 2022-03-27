@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Other
 title: l7Acal_shapes.pdf
 uid: e7b775ec-7c79-66bd-13aa-2e05d6173bd1

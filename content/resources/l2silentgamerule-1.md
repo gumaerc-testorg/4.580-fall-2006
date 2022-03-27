@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Document
 title: l2silentgamerule.pdf
 uid: 67a3140f-7e50-1627-946c-9c0646f8282e

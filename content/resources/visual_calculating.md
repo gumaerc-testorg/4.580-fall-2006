@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Document
 title: visual_calculating.pdf
 uid: a1b09d18-4653-50f8-164f-c28f5d3c3df4
