@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section brings information about various topics  of this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 ---
@@ -32,7 +36,7 @@ Introduction / Metaphor
 {{< tdopen >}}
 
 
-An Introduction to Metaphor ([PDF]({{< baseurl >}}/resources/lect1-1))
+An Introduction to Metaphor ({{% resource_link 4e8fd505-b8d9-2b54-4471-935a388b91ca "PDF" %}})
 
 Metaphor is a powerful, conceptual device for structuring and thinking about an unfamiliar, new, or abstract domain of experience or knowledge (say, computation) in terms of another domain that is more familiar or concrete. We will examine the different, mostly unconscious metaphors that we use in thinking about and doing computation and design. We will look at the ways these metaphors highlight, emphasize, and enable some ways of thinking about computation and design, while disabling or marginalizing others. These reflections may point us to new ways of seeing and doing computation in design.
 
@@ -51,7 +55,7 @@ The Silent Game I
 
 
 Guest: William Porter  
-Silent Game Rules ([PDF]({{< baseurl >}}/resources/l2silentgamerule-1))
+Silent Game Rules ({{% resource_link 67a3140f-7e50-1627-946c-9c0646f8282e "PDF" %}})
 
 In playing out the Silent Game, the intention is to provide a stage for experiencing directly and collectively some of the communication paradoxes that emerge from the design and reading of simple artifacts. The Silent Game allows exploration of how meaning gets embedded in, and conveyed through, form, and reveals issues of communication between builders and readers of an artifact. The Silent Game provides an opportunity to model some of these phenomena, play them out, and witness their interactions, thereby enlightening the mechanics of creation and recognition.
 
@@ -136,7 +140,7 @@ Visual Calculating I
 
 
 Guest: George Stiny  
-Visual Calculating ([PDF]({{< baseurl >}}/resources/visual_calculating))
+Visual Calculating ({{% resource_link a1b09d18-4653-50f8-164f-c28f5d3c3df4 "PDF" %}})
 
 The module Visual Calculating continues a theme – metaphor – with which the class is now familiar, and introduces related themes of framing, reformulation, and redescription as essential aspects of design. All are about new and different ways of looking at things in terms of what we already know or have at hand. In this module, these themes are visited in a very specific computational context, that of shape grammars.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains an overview of the course, prerequisites,
+  course calendar, readings, lecture notes, assignments and related resourses.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 22b007ad-62af-f285-7b37-9d087abc0baa
 ---
