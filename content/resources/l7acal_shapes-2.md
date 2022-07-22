@@ -5,6 +5,7 @@ file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/e575cb62a33a3
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

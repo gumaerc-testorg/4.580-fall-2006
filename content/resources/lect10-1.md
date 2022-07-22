@@ -5,6 +5,7 @@ file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/720ffbc60bfa8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect10.pdf
 uid: 720ffbc6-0bfa-8ba1-c69b-4ff8a5451dbe
 ---
 This resource contains description about materializing creative design.
-
