@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/e575cb62a33a33531d5497c6ed998bdb_l7Acal_shapes.pdf
+file_size: 39677
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
