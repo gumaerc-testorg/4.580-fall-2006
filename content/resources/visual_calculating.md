@@ -7,6 +7,7 @@ description: The module Visual Calculating continues a theme ? metaphor ? with w
   module, these themes are visited in a very specific computational context, that
   of shape grammars.
 file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/a1b09d18465350f8164fc28f5d3c3df4_visual_calculating.pdf
+file_size: 889035
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
