@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains description about
 
   how to calculate with shapes.'
-file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/e7b775ec7c7966bd13aa2e05d6173bd1_l7acal_shapes.pdf
+file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/e7b775ec7c7966bd13aa2e05d6173bd1_l7acal_shapes.pdf
 file_size: 39677
 file_type: application/octet-stream
 learning_resource_types:

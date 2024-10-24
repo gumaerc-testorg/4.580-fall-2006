@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/ff58232e21883b94ec0feb734cf586f2_lect7c.pdf
+file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/ff58232e21883b94ec0feb734cf586f2_lect7c.pdf
 file_size: 915493
 file_type: application/pdf
 learning_resource_types: []
