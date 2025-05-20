@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains description about materializing creative design.
-file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/720ffbc60bfa8ba1c69b4ff8a5451dbe_lect10.pdf
+file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/720ffbc60bfa8ba1c69b4ff8a5451dbe_lect10.pdf
 file_size: 4439734
 file_type: application/pdf
 learning_resource_types:

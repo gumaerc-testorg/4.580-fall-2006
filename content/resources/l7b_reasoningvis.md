@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/59855e571d1ac67977bb92873ce62eeb_L7B_reasoningvis.pdf
+file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/59855e571d1ac67977bb92873ce62eeb_L7B_reasoningvis.pdf
 file_size: 551193
 file_type: application/pdf
 learning_resource_types: []

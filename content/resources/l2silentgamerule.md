@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/c5f5e6cf2cfb73009c00b3bdd5826cd4_L2silentgamerule.pdf
+file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/c5f5e6cf2cfb73009c00b3bdd5826cd4_L2silentgamerule.pdf
 file_size: 52731
 file_type: application/pdf
 learning_resource_types: []
