@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains examples of visual calculating I.
-file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/4f6f84889339ef0d4b42bc4230415731_lect7c.pdf
+file: /courses/4-580-inquiry-into-computation-and-design-fall-2006/4f6f84889339ef0d4b42bc4230415731_lect7c.pdf
 file_size: 1543050
 file_type: application/pdf
 learning_resource_types:
