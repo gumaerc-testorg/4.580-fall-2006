@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains description of about reasoning visual.
-file: courses/4-580-inquiry-into-computation-and-design-fall-2006/c8a00739fdd4c7f3a9ecf188b03b5c2f_l7b_reasoningvis.pdf
+file: /ol-ocw-studio-app/courses/4-580-inquiry-into-computation-and-design-fall-2006/c8a00739fdd4c7f3a9ecf188b03b5c2f_l7b_reasoningvis.pdf
 file_size: 39677
 file_type: application/octet-stream
 learning_resource_types:
