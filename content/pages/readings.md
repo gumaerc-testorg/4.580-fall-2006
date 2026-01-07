@@ -97,9 +97,9 @@ Design, Rules, and Cognition I
 {{< tdopen >}}
 
 
-{{% resource_link "44723b1c-c36d-489b-9141-cbbc9ba18212" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. {{% resource_link "44723b1c-c36d-489b-9141-cbbc9ba18212" "_The Logic of Architecture. Design, Computation and Cognition_" %}}. Cambridge, MA: MIT Press, 1990, pp. 131-181. ISBN: 0262631164.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/logic-architecture) Mitchell, William J. [_The Logic of Architecture. Design, Computation and Cognition_](https://mitpress.mit.edu/books/logic-architecture). Cambridge, MA: MIT Press, 1990, pp. 131-181. ISBN: 0262631164.
 
-{{% resource_link "d4022dab-8c14-4d3d-af1a-fa808af4a90a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nagakura, T. "Shape Recognition and Transformation." In {{% resource_link "d4022dab-8c14-4d3d-af1a-fa808af4a90a" "_The Electronic Design Studio_" %}}. Edited by Malcolm McCullough, William J. Mitchell, and Patrick Purcell. Cambridge, MA: MIT Press, September 10, 1990, pp. 149-170. ISBN: 0262132540.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/electronic-design-studio) Nagakura, T. "Shape Recognition and Transformation." In [_The Electronic Design Studio_](https://mitpress.mit.edu/books/electronic-design-studio). Edited by Malcolm McCullough, William J. Mitchell, and Patrick Purcell. Cambridge, MA: MIT Press, September 10, 1990, pp. 149-170. ISBN: 0262132540.
 
 
 {{< tdclose >}}
@@ -133,7 +133,7 @@ Stiny, G. "New Ways to Look at Things." _Environment and Planning B: Planning an
 
 Knight, T. W. "Shape Grammars." _Environment and Planning B: Planning and Design_ (1998): 86-91. (Anniversary Issue)
 
-{{% resource_link "00837e8f-c8a3-4ae3-bdb7-7d4d10c9ca0c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cope, D. "Artificial Intelligence and Artificial Creativity." In {{% resource_link "00837e8f-c8a3-4ae3-bdb7-7d4d10c9ca0c" "_Virtual Music_" %}}. Cambridge, MA: MIT Press, 2001, pp. 323-324. ISBN: 0262532611.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/virtual-music) Cope, D. "Artificial Intelligence and Artificial Creativity." In [_Virtual Music_](https://mitpress.mit.edu/books/virtual-music). Cambridge, MA: MIT Press, 2001, pp. 323-324. ISBN: 0262532611.
 
 Bamberger, J. S. "Developing Musical Structures: A Reflective Practicum." _MIT Faculty Newsletter_ 17, no. 1 (2004).
 
@@ -169,13 +169,13 @@ Spiller, J., ed. _Paul Klee:_ _The Thinking Eye_. New York, NY: Wittenborn, 1961
 
 Sutherland, I. "Structure in Drawings and the Hidden-Surface Problem." Chapter 7 in _Reflections on Computer Aids to Design and Architecture._ Edited by N. Negroponte. New York, NY: Petrocelli, 1975. ISBN: 0884053059.
 
-{{% resource_link "ba6c21f7-d13c-4902-b561-6aef6bb16da0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Edwards, P. N. "Constructing Artificial Intelligence." Chapter 8 in {{% resource_link "ba6c21f7-d13c-4902-b561-6aef6bb16da0" "_The Closed World: Computers and the Politics of Discourse in Cold War America_" %}}. Cambridge, MA: MIT Press, 1996, pp. 239-273. ISBN: 0262550288.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/closed-world) Edwards, P. N. "Constructing Artificial Intelligence." Chapter 8 in [_The Closed World: Computers and the Politics of Discourse in Cold War America_](https://mitpress.mit.edu/books/closed-world). Cambridge, MA: MIT Press, 1996, pp. 239-273. ISBN: 0262550288.
 
 Travers, M. D. "Metaphors in Programming." Section 2.2 in _Programming with Agents: New Metaphors for Thinking about Computation._ Cambridge, MA: MIT PhD dissertation, 1996.
 
 ### Optional Readings
 
-Sims, K. "Evolving Virtual Creatures." _Computer Graphics_. Annual Conference Series, SIGGRAPH '94 Proceedings (1994): 15-22. ({{% resource_link "579cf216-0a8f-4d23-8f6f-2f86b2587cce" "PDF" %}})
+Sims, K. "Evolving Virtual Creatures." _Computer Graphics_. Annual Conference Series, SIGGRAPH '94 Proceedings (1994): 15-22. ([PDF](http://www.robots.ox.ac.uk/~cvrg/trinity2002/EC/siggraph94.pdf))
 
 
 {{< tdclose >}}
@@ -237,7 +237,7 @@ Design Knowledge I
 
 Forsythe, D. "Engineering Knowledge: The Construction of Knowledge in Artificial Intelligence." _Social Studies of Science_ 23, no. 3 (1993).
 
-{{% resource_link "09413c6c-56a6-45e6-ae3b-f634884f789d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Simon, H. A. "The Science of Design: Creating the Artificial_._" Chapter 5 in {{% resource_link "09413c6c-56a6-45e6-ae3b-f634884f789d" "_The Sciences of the Artificial_" %}}. Cambridge, MA: MIT Press, 1996, pp. 111-138. ISBN: 0262691914. (First published 1969.)
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/sciences-artificial-reissue-third-edition-new-introduction-john-laird) Simon, H. A. "The Science of Design: Creating the Artificial_._" Chapter 5 in [_The Sciences of the Artificial_](https://mitpress.mit.edu/books/sciences-artificial-reissue-third-edition-new-introduction-john-laird). Cambridge, MA: MIT Press, 1996, pp. 111-138. ISBN: 0262691914. (First published 1969.)
 
 Schön, D. A. _Educating the Reflective Practitioner._ New York, NY: Jossey-Bass, 1990, pp. 1-79, chapters 1-3. ISBN: 1555422209.
 

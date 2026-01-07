@@ -218,7 +218,7 @@ Guest: Larry Sass
 
 Digital fabrication is an emerging field focused on the production of designs as physical artifacts. Unfortunately, gaps in production methods for practitioners limit outcomes. Currently, the process of design translation is overloaded with many laborious operations. For better computer performance, intelligent machines are required that think through small problems in design. Theoretically, these machines should build the correct solutions in the computer while the designer to continues working on problems of greater complexity
 
-Sass’s research group, {{% resource_link "d5447f0f-ca89-43a3-8060-4cba9cfbb00c" "DDFG" %}}, explores next generation rule-based design that is both physical and visual. The goal is to build design interpreters that will translate a design concept to information readable by fabrication devices across scales, from chairs to skyscrapers.
+Sass’s research group, [DDFG](http://ddf.mit.edu/), explores next generation rule-based design that is both physical and visual. The goal is to build design interpreters that will translate a design concept to information readable by fabrication devices across scales, from chairs to skyscrapers.
 
 
 {{< tdclose >}}
@@ -236,7 +236,7 @@ Digital Fabricating II
 
 Guest: Larry Sass
 
-\[Review\] Students were asked to redesign and fabricate a chair for posting and publishing on the web. They were divided into groups of three – one student acting as CAD modeler/designer, one as fabricator, and one as evaluator/observer. Each group was required to redesign the "Noel Davis" chair: improving upon its looks, function or structure in order to fabricate a completely new chair from one sheet of 4’ x 5’ x ½” plywood. The new chair should be a work of art in appearance and function. In theory, the best designs will be placed on line for distribution and fabrication by rural {{% resource_link "9935a9c5-4547-4cbb-ad11-b6aaba746bbe" "Fab Labs" %}} around the world.
+\[Review\] Students were asked to redesign and fabricate a chair for posting and publishing on the web. They were divided into groups of three – one student acting as CAD modeler/designer, one as fabricator, and one as evaluator/observer. Each group was required to redesign the "Noel Davis" chair: improving upon its looks, function or structure in order to fabricate a completely new chair from one sheet of 4’ x 5’ x ½” plywood. The new chair should be a work of art in appearance and function. In theory, the best designs will be placed on line for distribution and fabrication by rural [Fab Labs](http://fab.cba.mit.edu/) around the world.
 
 
 {{< tdclose >}}
